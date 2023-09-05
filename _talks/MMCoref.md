@@ -1,7 +1,7 @@
 ---
-title: "Poster Presentation on Multimodal Coreference Resolution"
+title: "Presentation on Multimodal Coreference Resolution"
 collection: talks
-type: "Presentation"
+type: "Poster Presentation"
 permalink: /talks/MMCoref
 venue: "GHC 6101 Collaborative Commons, Carnegie Mellon University"
 date: 2021-12-03
