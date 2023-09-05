@@ -19,6 +19,7 @@ Education
     * **Software & Systems:** Advanced Operating Systems and Distributed Systems (15-712), Distributed Systems (15-440)
     * **Machine Learning:** Multimodal Machine Learning (11-777), Convex Optimization (10-725), Advanced NLP (11-711), Advanced Deep Learning (10-707)
     * **Maths:** Methods of Optimization (21-690), Numerical Linear Algebra (21-344), Principals of Real Analysis (21-356)
+    
 Teaching
 ======
 * **Teaching Assistant** for 15-213/513 Introduction to Computer Systems, Summer 2023
