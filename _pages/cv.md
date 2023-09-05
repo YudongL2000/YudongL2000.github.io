@@ -34,12 +34,14 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Efficient-Algorithm Design
+* Machine Learning
+  * Multimodal Machine Learning
+  * Natural Language Processing
+  * Statistical Machine Learning
+* Distributed Systems
+* Statistical Modeling
+* Biostatistical Analysis
 
 Publications
 ======
