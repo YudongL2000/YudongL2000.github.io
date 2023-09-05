@@ -21,21 +21,28 @@ Master of Science in Computer Science (Thesis Based)
 
 Expertise
 ----
-Algorithm Development,
-Machine Learning,
-Natural Language Processing,
-Distributed Systems,
-Software Engineering,
+Algorithm Development
 
-Interested in 
+Machine Learning
+
+Natural Language Processing
+
+Distributed Systems
+
+Software Engineering
+
+Research Interest 
 ----
-Reseach in ML, Systems and Biostatistics
+Distributed Machine Learning
 
-Mathematics
+Bioinformatics and Biostatistics
+
+Multimodal Machine Learning
+
+Theoretical Machine Learning and Optimizations
 
 Currently Looking for 
 ----
-Ph.D. position in Computer Science or Bioinformatics
+Ph.D. in Computer Science, Bioinformatics or Electrical Engineering
 
-
-Software /ML Engineering position in Industry
+Software/ML Engineering position in Industry
