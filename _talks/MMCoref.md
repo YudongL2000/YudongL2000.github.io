@@ -3,7 +3,7 @@ title: "Poster Presentation on Multimodal Coreference Resolution"
 collection: talks
 type: "Presentation"
 permalink: /talks/MMCoref
-venue: "Carnegie Mellon University, Language Technologies Institute"
+venue: "GHC 6101 Collaborative Commons, Carnegie Mellon University"
 date: 2021-12-03
 location: "Pittsburgh, PA"
 ---
