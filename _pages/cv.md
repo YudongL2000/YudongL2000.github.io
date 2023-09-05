@@ -14,7 +14,7 @@ Education
 * **Carnegie Mellon University**
   * **B.S. in Computer Science** , 2018-2022
     * Minor in Mathematical Science
-    * University Honors,
+    * **University Honors**
     * **CGPA:** 3.76/4.00
   * **M.S. in Computer Science (Thesis Based)**, 2022-2023
     * **CGPA:** 4.02/4.30
@@ -30,7 +30,7 @@ Teaching
 * **Teaching Assistant** for 10-701 Introduction to Machine Learning (Ph.D.), Fall 2023, CMU
 * **Teaching Assistant** for 15-712 Advanced Operating Systems and Distributed Systems, Fall 2023, CMU
 
-Work experience
+Experiences
 ======
 *  **Multicomp Research Internship**
     * **Duration:** May - AUG. 2020 
