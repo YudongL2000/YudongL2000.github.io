@@ -12,8 +12,12 @@ redirect_from:
 Education
 ======
 * **Carnegie Mellon University**
-  * **B.S. in Computer Science** with University Honors, Minor in Mathematical Science, 2018-2022, **CGPA:** 3.76/4.00
-  * **M.S. in Computer Science (Thesis Based)**, 2022-2023, **CGPA:** 4.02/4.30
+  * **B.S. in Computer Science** , 2018-2022
+    * Minor in Mathematical Science
+    * University Honors,
+    * **CGPA:** 3.76/4.00
+  * **M.S. in Computer Science (Thesis Based)**, 2022-2023
+    * **CGPA:** 4.02/4.30
   * **Selected Advanced Courses:**
     * **Algorithms & Complexity:** Algorithms for Big Data (15-859), Algorithm Design and Analysis (15-451)
     * **Systems:** Advanced Operating Systems and Distributed Systems (15-712), Distributed Systems (15-440)
@@ -22,9 +26,9 @@ Education
     
 Teaching
 ======
-* **Teaching Assistant** for 15-213/513 Introduction to Computer Systems, Summer 2023
-* **Teaching Assistant** for 10-701 Introduction to Machine Learning (Ph.D.), Fall 2023
-* **Teaching Assistant** for 15-712 Advanced Operating Systems and Distributed Systems, Fall 2023
+* **Teaching Assistant** for 15-213/513 Introduction to Computer Systems, Summer 2023, CMU
+* **Teaching Assistant** for 10-701 Introduction to Machine Learning (Ph.D.), Fall 2023, CMU
+* **Teaching Assistant** for 15-712 Advanced Operating Systems and Distributed Systems, Fall 2023, CMU
 
 Work experience
 ======
