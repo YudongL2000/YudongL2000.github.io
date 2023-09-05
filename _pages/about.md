@@ -13,13 +13,10 @@ I'm Yudong Liu, currently a Master Student from Carnegie Mellon University, Scho
 Education Background
 ----
 2018 - 2022:
-
 Bachelar of Science in Computer Science
-
 Minor in Mathematical Science
 
 2022-2023:
-
 Master of Science in Computer Science (Thesis Based)
 
 Expertise
