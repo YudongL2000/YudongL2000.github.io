@@ -65,45 +65,40 @@ Projects
   * Supported by: NSF award 2117640
   * Supervisor: Dr. Hosein Mohimani
   * Keywords: Python, Machine Learning, Bioinformatics
-  * Details:
-    * Participated in developing AdenPredictor, a powerful toolkit for identifying bioactive compounds for drug discoveries.
-    * Our tool predicts the binding of amino acids to A-domain protein subsequences using ensembled ML Models that incorporates 3-dimensional domain structures from AlphaFold2, achieving about 90% accuracy on testing data
+  * Participated in developing AdenPredictor, a powerful toolkit for identifying bioactive compounds for drug discoveries.
+  * Our tool predicts the binding of amino acids to A-domain protein subsequences using ensembled ML Models that incorporates 3-dimensional domain structures from AlphaFold2, achieving about 90% accuracy on testing data
   
 * High-Modality Multimodal Transformer
   * JUN. 2022 - FEB. 2023
   * Supported by: Meta, NSF award 1750439 and 1722822
   * Supervisor: Dr. Louis-Philippe Morency
   * Keywords: Python, PyTorch, Deep Learning
-  * Details:
-    * Participated in the development of HighMMT, a model capable of handling over 8 modalities including spoken language, video, gestures, text and robot sensory data through few-shot modality transfer
-    * Improved the tradeoff between performance and parameter-efficiency over existing state-of-art models
+  * Participated in the development of HighMMT, a model capable of handling over 8 modalities including spoken language, video, gestures, text and robot sensory data through few-shot modality transfer
+  * Improved the tradeoff between performance and parameter-efficiency over existing state-of-art models
   
 * DynPartition
   * FEB. - MAY 2022
   * Computer Science Department, CMU
   * Supervisor: Prof. Philip Gibbons
   * Keywords: Python, Distributed Machine Learning, Distributed Systems
-  * Details:
-    * Proposed and implemented a novel rein-forcement learning-based scheduler that performs dynamic partitioning of computation workload across multiple heterogeneous GPUs for large neural network inference tasks
-    * explored an important area of research in distributed machine learning under Cloud Cluster settings
+  * Proposed and implemented a novel rein-forcement learning-based scheduler that performs dynamic partitioning of computation workload across multiple heterogeneous GPUs for large neural network inference tasks
+  * explored an important area of research in distributed machine learning under Cloud Cluster settings
 
 * Distributed Bitcoin Miner
   * AUG. - OCT. 2020
   * Computer Science Department, CMU
   * Supervisor: Dr. Heather Miller
   * Keywords: Golang, Distributed Systems, Networking
-  * Details:
-    * Designed a mock distributed bitcoin miner based on Remote Procedural Calls (RPC) between client-server interactions
-    * The miner runs on LSP (Live Sequence Protocol) capable of handling computational intensive tasks and recovering from sudden failures
+  * Designed a mock distributed bitcoin miner based on Remote Procedural Calls (RPC) between client-server interactions
+  * The miner runs on LSP (Live Sequence Protocol) capable of handling computational intensive tasks and recovering from sudden failures
 
 * ECLM: Expansion Language Models for Conditional Adaptation
   * JUL. 2023 - Present
   * Multicomp Lab, Language Technologies Institute, CMU
   * Supervisor: Dr. Louis-Philippe Morency
   * Keywords: Python, PyTorch, Deep Learning, Natural Language Processing
-  * Details:
-    * Constructing a pipeline for Multimodal video captioning and QA task with easy few-shot adaptation to large Large Language Models from small pretrained language models
-    * Aim to incorporate modalities from visual, audio, medical and graph datasets into the pipeline to create a highly-capable multimodal QA system
+  * Constructing a pipeline for Multimodal video captioning and QA task with easy few-shot adaptation to large Large Language Models from small pretrained language models
+  * Aim to incorporate modalities from visual, audio, medical and graph datasets into the pipeline to create a highly-capable multimodal QA system
 
 Publications
 ======
