@@ -51,7 +51,7 @@ Skills
   * Anaconda
   * Microsoft Office
 * Experienced in
-  * Efficient-Algorithm Design
+  * Algorithm Design
   * Machine Learning
   * Distributed Systems
   * Statistical Modeling
@@ -77,6 +77,7 @@ Major Projects
     * Our contribution greatly improves the efficiency of natural product discoveries and genome mining
     * Paper accepted by Nature Biotechnology as co-first author
 
+
 * Learning A-domain substrate specificities using AdenPredictor
   * DEC. 2021 - OCT. 2022
   * Supported by: NSF award 2117640
@@ -97,6 +98,7 @@ Major Projects
     * Improved the tradeoff between performance and parameter-efficiency over existing state-of-art models
   
 
+
 * DynPartition
   * FEB. - MAY 2022
   * Computer Science Department, CMU
@@ -107,6 +109,7 @@ Major Projects
     * explored an important area of research in distributed machine learning under Cloud Cluster settings
 
 
+
 * Distributed Bitcoin Miner
   * AUG. - OCT. 2020
   * Computer Science Department, CMU
@@ -115,6 +118,7 @@ Major Projects
   * Details:
     * Designed a mock distributed bitcoin miner based on Remote Procedural Calls (RPC) between client-server interactions
     * The miner runs on LSP (Live Sequence Protocol) capable of handling computational intensive tasks and recovering from sudden failures
+
 
 
 * ECLM: Expansion Language Models for Conditional Adaptation  
