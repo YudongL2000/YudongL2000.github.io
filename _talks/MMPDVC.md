@@ -1,5 +1,5 @@
 ---
-title: "Poster Presentation on Video Dense Captioning with Knowledge Distillation"
+title: "Presentation on Video Dense Captioning with Knowledge Distillation"
 collection: talks
 type: "Poster Presentation"
 permalink: /talks/MMPDVC
