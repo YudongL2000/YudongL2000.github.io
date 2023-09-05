@@ -17,6 +17,7 @@ Education
 
 Work experience
 ======
+
 Multicomp Research Internship
 ----
   * Summer 2020 
@@ -47,6 +48,7 @@ Skills
 
 Projects
 ======
+
 Efficient clustering and spectral library search under large data scale
 ----
 * AUG. 2021 - JUL. 2023
