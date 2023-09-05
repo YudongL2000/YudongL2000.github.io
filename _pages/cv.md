@@ -29,8 +29,8 @@ Work experience
   * Mohimani Lab, School of Computer Science, CMU
   * Supervisor: Dr. Hosein Mohimani
   * Duties include:
-    * Designed and implemented efficient algorithms for nonribosomal peptide discovery through GNPS dataset
-    * Designed and Implemented ML methods for predicting bindings between protein sequences and peptides
+    * Designed and implemented efficient algorithms for nonribosomal peptide discovery through GNPS dataset, a public mass-spectrometry database that currently contains over 717 million mass-spectrometry data
+    * Designed and Implemented ML methods for predicting bindings between protein sequences and peptides for small molecule discoveries.
   
 Skills
 ======
