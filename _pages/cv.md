@@ -50,7 +50,7 @@ Skills
 
 Selected Projects
 ======
-* **Efficient clustering and spectral library search under large data scale**
+* **[Efficient clustering and spectral library search under large data scale](https://github.com/mohimanilab/MASSTplus)**
   * **Duration:** AUG. 2021 - JUL. 2023
   * **Support:** awards from [NSF 2117640](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2117640&HistoricalAwards=false), U.S. Department of Energy [DE-SC0021340](https://pamspublic.science.energy.gov/WebPAMSExternal/Interface/Common/ViewPublicAbstract.aspx?rv=a601ce84-b365-4772-87d3-9ee13d943635&rtc=24&PRoleId=10)
   * **Supervisor:** Dr. Hosein Mohimani, Computational Biology Department, CMU
@@ -58,9 +58,8 @@ Selected Projects
   * One of the main contributors for designing and implementing MASST+ & Networking+, two toolkits for large-scale spectral library clustering, searching and analysis that’s three orders of magnitudes faster than the state of art
   * Our contribution greatly improves the efficiency of natural product discoveries and genome mining
   * [Paper](http://YudongL2000.github.io/files/MASST+.pdf) accepted by Nature Biotechnology
-  * [Github](https://github.com/mohimanilab/MASSTplus)
   
-* **Learning A-domain substrate specificities using AdenPredictor**
+* **[Learning A-domain substrate specificities using AdenPredictor](https://github.com/MihirMongia/AdenPredictor)**
   * **Duration:** DEC. 2021 - OCT. 2022
   * **Support:** [NSF award 2117640](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2117640&HistoricalAwards=false)
   * **Supervisor:** Dr. Hosein Mohimani, Computational Biology Department, CMU
@@ -68,7 +67,6 @@ Selected Projects
   * Participated in developing AdenPredictor, a powerful toolkit for identifying bioactive compounds for drug discoveries.
   * Our tool predicts the binding of amino acids to A-domain protein subsequences using ensembled ML Models that incorporates 3-dimensional domain structures from AlphaFold2, achieving about 90% accuracy on testing data
   * [Paper](http://YudongL2000.github.io/files/adenPredictor.pdf) published on Bioinformatics
-  * [Github](https://github.com/MihirMongia/AdenPredictor)
   
 * **[High-Modality Multimodal Transformer](https://github.com/pliang279/HighMMT)**
   * **Duration:** JUN. 2022 - FEB. 2023
@@ -79,22 +77,20 @@ Selected Projects
   * Improved the tradeoff between performance and parameter-efficiency over existing state-of-art models
   * [Paper](http://YudongL2000.github.io/files/highMMT.pdf) published on TMLR
   
-* **DynPartition**
+* **[DynPartition](https://github.com/YudongL2000/DynPartition)**
   * **Duration:** FEB. - MAY 2022
   * **Supervisor:** Prof. Philip Gibbons, Computer Science Department, CMU
   * **Keywords:** Python, Distributed Machine Learning, Distributed Systems
   * Proposed and implemented a novel rein-forcement learning-based scheduler that performs dynamic partitioning of computation workload across multiple heterogeneous GPUs for large neural network inference tasks
   * explored an important area of research in distributed machine learning under Cloud Cluster settings
   * [Report](http://YudongL2000.github.io/files/RL_scheduler.pdf)
-  * [Github](https://github.com/YudongL2000/DynPartition)
 
-* **Distributed Bitcoin Miner**
+* **[Distributed Bitcoin Miner](https://github.com/YudongL2000/Distributed_Bitcoin_miner)**
   * **Duration:** AUG. - OCT. 2020
   * **Supervisor:** Dr. Heather Miller, Computer Science Department, CMU
   * **Keywords:** Golang, Distributed Systems, Networking
   * Designed a mock distributed bitcoin miner based on Remote Procedural Calls (RPC) between client-server interactions
   * The miner runs on LSP (Live Sequence Protocol) capable of handling computational intensive tasks and recovering from sudden failures
-  * [Github](https://github.com/YudongL2000/Distributed_Bitcoin_miner)
 
 
 * **ECLM: Expansion Language Models for Conditional Adaptation**
