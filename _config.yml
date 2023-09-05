@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Personal Website"
+title                    : "Home Page"
 title_separator          : "-"
 name                     : &name "Yudong Liu"
 description              : &description "personal description"
