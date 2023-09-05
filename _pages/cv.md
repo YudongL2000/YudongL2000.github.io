@@ -83,7 +83,7 @@ Selected Projects
   * **Keywords:** Python, Distributed Machine Learning, Distributed Systems
   * Proposed and implemented a novel rein-forcement learning-based scheduler that performs dynamic partitioning of computation workload across multiple heterogeneous GPUs for large neural network inference tasks
   * explored an important area of research in distributed machine learning under Cloud Cluster settings
-  * [Report](http://YudongL2000.github.io/files/RL_scheduler.pdf)
+  * [View our report here](http://YudongL2000.github.io/files/RL_scheduler.pdf)
 
 * **[Distributed Bitcoin Miner](https://github.com/YudongL2000/Distributed_Bitcoin_miner)**
   * **Duration:** AUG. - OCT. 2020
