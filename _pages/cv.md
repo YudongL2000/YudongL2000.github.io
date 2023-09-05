@@ -17,15 +17,20 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2020: Multicomp Research Internship
+  * Multicomp Lab, Language Technologies Institute, CMU
+  * Supervisor: Dr. Louis-Philippe Morency
+  * Duties include:
+    * develop hierarchical autoencoder networks for complex multimodal data feature extractions, including Video, Audio, and Text modality;
+    * prove effectiveness of the network on downstream classification tasks from CMU-MOSEI, MOSI, and IEMOCAP datasets
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
+* JUL. 2021 - AUG. 2023: Research Assistant
+  * Mohimani Lab, School of Computer Science, CMU
+  * Supervisor: Dr. Hosein Mohimani
+  * Duties include:
+    * Designed and implemented efficient algorithms for nonribosomal peptide discovery through GNPS dataset
+    * Designed and Implemented ML methods for predicting bindings between protein sequences and peptides
   
 Skills
 ======
