@@ -15,6 +15,7 @@ Education
   * B.S. in Computer Science with University Honors, Minor in Mathematical Science, 2018-2022
   * M.S. in Computer Science (Thesis Based), 2022-2023
 
+
 Work experience
 ======
 
@@ -45,6 +46,11 @@ Skills
 * Tools: Latex, Unix Shell, Anaconda, Microsoft Office
 * Experienced in: Algorithm Design, Machine Learning, Distributed Systems, Statistical Modeling, Biostatistical Analysis
 
+Teaching
+======
+* Teaching Assistant for 15-213/513 Introduction to Computer Systems, Summer 2023
+* Teaching Assistant for 10-701 Introduction to Machine Learning (Ph.D.), Fall 2023
+* Teaching Assistant for 15-712 Advanced Operating Systems and Distributed Systems, Fall 2023
 
 Projects
 ======
@@ -116,16 +122,5 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 
