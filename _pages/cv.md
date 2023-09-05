@@ -11,8 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science with University Honors, Minor in Mathematical Science, Carnegie Mellon University, 2018-2022
-* M.S. in Computer Science (Thesis Based), Carnegie Mellon University, 2022-2023
+*Carnegie Mellon University
+  * B.S. in Computer Science with University Honors, Minor in Mathematical Science, 2018-2022
+  * M.S. in Computer Science (Thesis Based), 2022-2023
 
 Work experience
 ======
