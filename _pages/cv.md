@@ -70,7 +70,7 @@ Selected Projects
   * [Paper](http://YudongL2000.github.io/files/adenPredictor.pdf) published on Bioinformatics
   * [Github](https://github.com/MihirMongia/AdenPredictor)
   
-* **High-Modality Multimodal Transformer**
+* **[High-Modality Multimodal Transformer](https://github.com/pliang279/HighMMT)**
   * **Duration:** JUN. 2022 - FEB. 2023
   * **Support:** Meta, [NSF award 1750439](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1750439&HistoricalAwards=false), [NSF award 1722822](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1722822&HistoricalAwards=false)
   * **Supervisor:** Dr. Louis-Philippe Morency, Language Technologies Institute, CMU
@@ -78,7 +78,6 @@ Selected Projects
   * Participated in the development of HighMMT, a model capable of handling over 8 modalities including spoken language, video, gestures, text and robot sensory data through few-shot modality transfer
   * Improved the tradeoff between performance and parameter-efficiency over existing state-of-art models
   * [Paper](http://YudongL2000.github.io/files/highMMT.pdf) published on TMLR
-  * [Github](https://github.com/pliang279/HighMMT)
   
 * **DynPartition**
   * **Duration:** FEB. - MAY 2022
