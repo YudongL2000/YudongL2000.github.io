@@ -2,7 +2,6 @@
 title: "High-Modality Multimodal Transformer: Quantifying Modality & Interaction Heterogeneity for High-Modality Representation Learning"
 collection: publications
 permalink: "https://arxiv.org/abs/2203.01311"
-excerpt: 'This paper constructs a parameter-efficient transformer module for multimodal feature representation learning'
 date: Published on 2023-05-30
 venue: 'Transactions on Machine Learning Research'
 paperurl: 'http://YudongL2000.github.io/files/highMMT.pdf'
