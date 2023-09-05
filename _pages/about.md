@@ -16,7 +16,7 @@ Education Background
 Bachelar of Science in Computer Science
 Minor in Mathematical Science
 
-2022-2023:
+2022 - 2023:
 Master of Science in Computer Science (Thesis Based)
 
 Expertise
