@@ -3,7 +3,7 @@ title: "Presentation on Video Dense Captioning with Knowledge Distillation"
 collection: talks
 type: "Poster Presentation"
 permalink: /talks/MMPDVC
-venue: "GHC 4 common space, Carnegie Mellon University"
+venue: "GHC 4 Commons, Carnegie Mellon University"
 date: 2022-12-06
 location: "Pittsburgh, PA"
 ---
