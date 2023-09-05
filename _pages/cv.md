@@ -16,7 +16,7 @@ Education
   * **M.S. in Computer Science (Thesis Based)**, 2022-2023, **CGPA:** 4.02/4.30
   * **Selected Advanced Courses:**
     * **Algorithms & Complexity:** Algorithms for Big Data (15-859), Algorithm Design and Analysis (15-451)
-    * **Software & Systems:** Advanced Operating Systems and Distributed Systems (15-712), Distributed Systems (15-440)
+    * **Systems:** Advanced Operating Systems and Distributed Systems (15-712), Distributed Systems (15-440)
     * **Machine Learning:** Multimodal Machine Learning (11-777), Convex Optimization (10-725), Advanced NLP (11-711), Advanced Deep Learning (10-707)
     * **Maths:** Methods of Optimization (21-690), Numerical Linear Algebra (21-344), Principals of Real Analysis (21-356)
     
