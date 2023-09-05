@@ -3,7 +3,6 @@ title: "AdenPredictor: accurate prediction of the adenylation domain specificity
 genomes"
 collection: publications
 permalink: https://academic.oup.com/bioinformatics/article/39/Supplement_1/i40/7210450
-excerpt: 'This paper proposes a machine-learning based tool for predicting protein A-domain sequence binding with peptides'
 date: Published on 2023-06-30
 venue: 'Bioinformatics'
 paperurl: 'http://YudongL2000.github.io/files/adenPredictor.pdf'
