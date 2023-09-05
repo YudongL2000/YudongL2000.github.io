@@ -4,7 +4,7 @@ collection: talks
 type: "Presentation"
 permalink: /talks/MMCoref
 venue: "Carnegie Mellon University, Language Technologies Institute"
-date: 2012-03-01
+date: 2021-12-03
 location: "Pittsburgh, PA"
 ---
 
