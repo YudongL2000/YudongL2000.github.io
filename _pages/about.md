@@ -39,11 +39,11 @@ Software Engineering
 
 Research Interest 
 ----
+AI systems & Frameworks
+
 Distributed Machine Learning
 
-Bioinformatics and Biostatistics
-
-Multimodal Machine Learning
+AI Medicine and Bioinformatics
 
 Theoretical Machine Learning and Optimizations
 
