@@ -30,7 +30,7 @@ Teaching
 * **Teaching Assistant** for 10-701 Introduction to Machine Learning (Ph.D.), Fall 2023, CMU
 * **Teaching Assistant** for 15-712 Advanced Operating Systems and Distributed Systems, Fall 2023, CMU
 
-Experiences
+Research Experiences
 ======
 *  **Multicomp Research Internship**
     * **Duration:** May - AUG. 2020 
