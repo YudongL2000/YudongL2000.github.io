@@ -128,7 +128,7 @@ Past Projects
   * Designed a mock distributed bitcoin miner based on Remote Procedural Calls (RPC) between client-server interactions
   * The miner runs on LSP (Live Sequence Protocol) capable of handling computational intensive tasks and recovering from sudden failure
 
-* **[Raft Consensus Algorithm]**
+* **Raft Consensus Algorithm**
   * **Duration:** OCT. - DEC. 2020
   * **Supervisor:** Dr. Heather Miller, Computer Science Department, CMU
   * **Keywords:** Golang, Distributed Systems, Networking
