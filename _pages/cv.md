@@ -70,7 +70,21 @@ Entrepreneurship
     * Developing multimodal MedicalGPT for auto-diagnosis of animal diseases, in collaboration with 100+ researchers, primitive version expected to be released in March
     * Partnering with local investors to raise funds to build a machine learning laboratory for large model fine-tuning
 
-Selected Projects
+ONGOING Projects
+======
+* **DAO: Dynamic Activation & Offloading**
+  * **Duration:** Oct. 2023 - Present
+  * **Supervisor:** Prof. Phillip Gibbons, Computer Science Department, CMU
+  * **Keywords:** AI systems, Machine Learning, C++, Python
+  * **Objective:**
+    * Construct an AI framework capable of sustaining large model fine tuning on commodity hardware platform
+    * Explore combining model stochastic depth with system level optimizations to save memory.
+    * Design a more efficient memory management policy that dynamically offloads kernel executions from GPU to CPU memory
+  * **Brief Introduction:**
+  * Our research aimed to resolve the lack of frameworks capable of sustaining fine-tuning of dynamic large neural networks on commodity hardware platforms, an obstacle that greatly limits the democratization of personalized AI. Existing works such as Zero-offload utilize fixed offloading policy by moving optimization stages from GPU to CPU memory, and therefore couldn’t handle control-flows in network architectures. To tackle this problem, I’m currently designing an “on-the-fly” CPU-GPU memory manager capable of deciding placement of each tensor depending on future memory access patterns, taking advantage of my knowledge in data structures and scheduling algorithms. Using a combination of model level optimizations such as stochastic depth and system level optimizations such as memory offloading, we aim to fine-tune large language models such as Llama 7B on light-weight platforms. Based on our initial evaluations, we expect our framework to save significant amounts of GPU memory compared to PyTorch, without sacrificing much computational throughput. After finishing our milestone, we also plan to scale-up our current framework to support memory-efficient training of large models on distributed heterogeneous device platforms.
+
+
+Past Projects
 ======
 * **[Efficient clustering and spectral library search under large data scale](https://github.com/mohimanilab/MASSTplus)**
   * **Duration:** AUG. 2021 - JUL. 2023
@@ -79,7 +93,7 @@ Selected Projects
   * **Keywords:** C++, Rust, Algorithms, Data mining, Software Engineering, Biostatistics
   * One of the main contributors for designing and implementing MASST+ & Networking+, two toolkits for large-scale spectral library clustering, searching and analysis that’s three orders of magnitudes faster than the state of art
   * Our contribution greatly improves the efficiency of natural product discoveries and genome mining
-  * [Paper](http://YudongL2000.github.io/files/MASST+.pdf) accepted by Nature Biotechnology
+  * [Paper](https://www.nature.com/articles/s41587-023-01985-4) published in Nature Biotechnology
   
 * **[Learning A-domain substrate specificities using AdenPredictor](https://github.com/MihirMongia/AdenPredictor)**
   * **Duration:** DEC. 2021 - OCT. 2022
@@ -112,15 +126,15 @@ Selected Projects
   * **Supervisor:** Dr. Heather Miller, Computer Science Department, CMU
   * **Keywords:** Golang, Distributed Systems, Networking
   * Designed a mock distributed bitcoin miner based on Remote Procedural Calls (RPC) between client-server interactions
-  * The miner runs on LSP (Live Sequence Protocol) capable of handling computational intensive tasks and recovering from sudden failures
+  * The miner runs on LSP (Live Sequence Protocol) capable of handling computational intensive tasks and recovering from sudden failure
 
-
-* **ECLM: Expansion Language Models for Conditional Adaptation**
-  * **Duration:** JUL. 2023 - Present
-  * **Supervisor:** Dr. Louis-Philippe Morency, Language Technologies Institute, CMU
-  * **Keywords:** Python, PyTorch, Deep Learning, Natural Language Processing
-  * Constructing a pipeline for Multimodal video captioning and QA task with easy few-shot adaptation to large Large Language Models from small pretrained language models
-  * Aim to incorporate modalities from visual, audio, medical and graph datasets into the pipeline to create a highly-capable multimodal QA system
+* **[Raft Consensus Algorithm]**
+  * **Duration:** OCT. - DEC. 2020
+  * **Supervisor:** Dr. Heather Miller, Computer Science Department, CMU
+  * **Keywords:** Golang, Distributed Systems, Networking
+  * Implemented a Raft consensus algorithm to support concurrent accesses to a distributed database based on my 15440 course project.
+  * I organized client requests into log for each replica to ensure agreement across different servers and
+allow easy fault-recovery after server failure
 
 Publications
 ======
