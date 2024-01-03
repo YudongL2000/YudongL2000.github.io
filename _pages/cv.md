@@ -56,6 +56,19 @@ Skills
 * **Tools**: Latex, Unix Shell, Anaconda, Microsoft Office
 * **Experiences**: Algorithm Design, Machine Learning, Distributed Systems, Statistical Modeling, Biostatistical Analysis
 
+Entrepreneurship
+======
+* **[QI-Algorithms]**
+  * **Duration:** Jul. 2022 - Present
+  * **Title:** Co-founder & Lead Technical Support
+  * **Collaborators:** Chinese Academy of Science, Wuhan University Taikang Medical School (School of Basic Medical Science), Gannan Medical University
+  * **Keywords:** AI Medical Care, Full-stack software development, Home IoT
+  * **Our Motivation:**
+    * Over the course of my academic endeavors, I realized that there’s an increasingly urgent need to allow the personalization of state-of-the-art AI models on light-weight computing platforms. Driven by this motivation, I co-founded a startup QI-Algorithms in Chongqing, China, with two of my friends. We started from an under-informationized but rapidly growing market, the pet-healthcare business. We aim to build an IoT platform gathering information from all pet devices with electronic sensors in the house, such as cameras, electronic collars, and feeders. I aim to fine-tune cutting-edge large models based on the data to perform animal-behavior learning and provide personalized medical advice for pet-owners. The personalized large model for each consumer would be based on years of private data collected from various devices. In order to achieve fine-tuning locally to ensure data privacy and reduce cloud computing cost, we need to be able to personalize AI on commodity hardware platforms or even edge devices. Currently, we’ve already designed a smart collar that could provide real-time movement recognition based on 6-axis gyroscope data. We’re also working with Professor Hongliang Li from Wuhan University to build a clinical dataset for sustaining animal disease forecasting. We're currently developing a smart database capable of managing enormous amounts of medical diagnoisis data and provide big-data-driven AI diagnoisis support for doctors and pet owners, as well as providing P2P recommendation from business owners to pet service consumers. I hope to explore the direction of sustaining memory efficient training and inference of large models on light-weight platforms in my future endeavour to make cutting-edge AI eventually personalizable.
+  * **What we're currently doing:**
+    * Building a LSTM neural network based on 6-axis accelerometer data from pet smart collars for real-time action tracking, expected to enter the market in March
+    * Developing multimodal MedicalGPT for auto-diagnosis of animal diseases, in collaboration with 100+ researchers, primitive version expected to be released in March
+    * Partnering with local investors to raise funds to build a machine learning laboratory for large model fine-tuning
 
 Selected Projects
 ======
