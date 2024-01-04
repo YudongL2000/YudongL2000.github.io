@@ -5,9 +5,9 @@ permalink: https://www.nature.com/articles/s41587-023-01985-4
 tags:
   - Bioinformatics
   - Applied Algorithm
-  - Software
+  - Software Development
 ---
-Our paper “Fast Mass Spectrometry Search and Clustering of Untargeted Metabolomics Data" is published in Nature Biotechnology at January 2, 2024. Our method runs on an indexing based algorithm for one versus all or all versus all fast similarity dot-product score calculation of mass spectrometry data, making our tools over two magnitudes faster than the state of the art. Additionally, our software enables searching and analysis across the whole GNPS (currently contains 717 million MS data) dataset using single CPU, a goal that could never be accomplished by existing methods.
+Our paper “Fast Mass Spectrometry Search and Clustering of Untargeted Metabolomics Data" is published in Nature Biotechnology on January 2, 2024. Our method runs on an indexing based algorithm for one versus all or all versus all fast similarity dot-product score calculation of mass spectrometry data, making our tools over two magnitudes faster than the state of the art. Additionally, our software enables searching and analysis across the whole GNPS (currently contains 717 million MS data) dataset using single CPU, a goal that could never be accomplished by existing methods.
 
 
 Code availability
