@@ -1,7 +1,8 @@
 ---
 title: "Quantifying Interactions in Semi-supervised Multimodal Learning: Guarantees and Applications"
 collection: publications
-venue: 'ICLR 2024'
+data: 2024
+venue: 'ICLR'
 paperurl: 'https://openreview.net/pdf?id=BrjLHbqiYs'
 citation: 'Paul Pu Liang, Chun Kai Ling, Yun Cheng, Alexander Obolenskiy, Yudong Liu, Rohan Pandey, Alex Wilf, Louis-
 Philippe Morency, Russ Salakhutdinov. Quantifying Interactions in Semi-supervised Multimodal Learning: Guarantees
